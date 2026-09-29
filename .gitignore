@@ -1,0 +1,13 @@
+# Dados 
+data/raw
+data/processed/
+
+# Ambiente virtual
+.vern/
+
+# Cache Python 
+__pycache__/
+
+# Variáveis de ambiente (Chaves de API,senhas)
+.env
+
