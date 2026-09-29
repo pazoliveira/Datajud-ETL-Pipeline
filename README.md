@@ -47,11 +47,11 @@ Este projeto segue as etapas abaixo (adaptado de CRISP-DM):
 ```
 datajud-etl-pipeline/
 ├── data/
-│   ├── raw/          #Dado não-processado
-│   └── processed/    #Dado tratado
-├── docs/             #Documentação adicional
-├── notebooks/        #Jupyter Notebook
-├── src/              #Código fonte módular
+│   ├── raw/          # Dado não-processado
+│   └── processed/    # Dado tratado
+├── docs/             # Documentação adicional
+├── notebooks/        # Jupyter Notebook
+├── src/              # Código fonte módular
 │   ├── __init__.py
 │   ├── extract.py
 │   ├── transform.py
