@@ -45,7 +45,18 @@ Este projeto segue as etapas abaixo (adaptado de CRISP-DM):
 ## Estrutura do repositório
 
 ```
-[conforme o projeto avança]
+datajud-etl-pipeline/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── scripts/
+├── notebooks/
+├── docs/
+├── outputs/
+├── .gitignore
+├── requirements.txt
+└── README.md
+
 ```
 
 ## Como rodar
