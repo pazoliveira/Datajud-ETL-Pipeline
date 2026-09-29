@@ -81,7 +81,7 @@ _Preencher ao final da análise exploratória._
 
 ## Limitações conhecidas
 
-- Cobertura limitada ao(s) tribunal(is) e período selecionados no recorte inicial.
+- Cobertura limitada aos tribunais e período selecionados no recorte inicial.
 - Dados dependem da qualidade de preenchimento de cada tribunal na base do CNJ.
 
 ## Fontes e referências
