@@ -49,7 +49,7 @@ datajud-etl-pipeline/
 ├── data/
 │   ├── raw/
 │   └── processed/
-├── scripts/
+├── src/
 ├── notebooks/
 ├── docs/
 ├── outputs/
